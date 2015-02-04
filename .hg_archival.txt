@@ -1,0 +1,5 @@
+repo: 4fcba451f3daff977ee176e17a031863d53105c0
+node: c6f52690a4ed5886df08d8c186e35e5c9f2b11d2
+branch: default
+latesttag: Before haptic removal
+latesttagdistance: 56
